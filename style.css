@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.4;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+header {
+    
+    color: #fff;
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+    
+}
+header img{
+    width: 8%;
+    height: auto;
+    text-align: left;
+}
+
+header h1 {
+    color: rgb(255, 0, 106);
+    margin: 0;
+}
+header span {
+    color:orangered;
+}
+
+header p {
+    color:black;
+    margin: 10px 0 0;
+}
+
+section {
+    padding: 20px;
+    color: crimson;
+}
+
+h2 {
+    color:red;
+}
